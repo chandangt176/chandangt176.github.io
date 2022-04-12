@@ -8,15 +8,15 @@
 
 border: none;
 background-color: black;
-color: #61122F;
+color: hsl(336, 15%, 87%);
 }
 body{
-	background-color: #61122F;
+	background-color: #d4306c;
 	color: white;
 }
 .glyphicon{
 	font-size: 30px;
-	color:#61122F; 
+	color:#12ee1d; 
 }
 
 .center{
@@ -36,7 +36,7 @@ h2{
 	text-align: center;
 }
 #myNavbar ul li a {
-	color: #61122F;
+	color: #48c2f3;
 }
 .navbar-brand{
 font-size: 30px;	
