@@ -39,7 +39,7 @@ h2{
 #myNavbar ul li a {
 	color: #48c2f3;
 }
-#myNavbar ul li a:hover{
+#myNavbar:hover{
 	background-color: aliceblue;
 	cursor: pointer;
 }
